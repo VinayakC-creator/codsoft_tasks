@@ -7,3 +7,6 @@ FOR FOGMA LINKS
 
 
 2.RESTAURANT MENU:https://www.figma.com/design/wclfViMdicNhDNgAX4ds9p/Untitled?node-id=0-1&t=2BymNYzSkTmhX7ox-1
+
+
+3.ECOMMERCE WEBSITE:https://www.figma.com/design/2BgTXgT1H2Bn5WS2GEkV3k/Untitled?node-id=1-2&t=2BymNYzSkTmhX7ox-1
