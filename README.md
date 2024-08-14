@@ -20,8 +20,9 @@ Link: “Already have an account? Log In” option below the input fields.
 
 1.MOBILE SIGNUP FLOW:https://www.figma.com/design/CMfzvaMG6fEfdkdXVh7Tyu/Untitled?node-id=0-1&t=kn5yyfTxDoDjr8Mz-1
 
-Homepage
-Logo: Positioned at the top-left for brand recognition.
+Restaurant Website Design
+
+Homepage Logo: Positioned at the top-left for brand recognition.
 Navigation Menu: Links to key sections such as Menu
 Search Bar: Optionally included for searching the menu
 Header: Consistent with the homepage for ease of navigation.
