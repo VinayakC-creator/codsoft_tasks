@@ -20,6 +20,15 @@ Link: “Already have an account? Log In” option below the input fields.
 
 1.MOBILE SIGNUP FLOW:https://www.figma.com/design/CMfzvaMG6fEfdkdXVh7Tyu/Untitled?node-id=0-1&t=kn5yyfTxDoDjr8Mz-1
 
+Homepage
+Header:
+Logo: Positioned at the top-left for brand recognition.
+Navigation Menu: Links to key sections such as Menu, About Us, Reservations, Contact, and Blog. Include a prominent “Order Online” or “Make a Reservation” button.
+Search Bar: Optionally included for searching the menu or website contentMenu Page
+Header: Consistent with the homepage for ease of navigation.
+Menu Categories:
+ Clearly defined sections such as  Main Courses, Desserts, and Beverages.
+
 
 2.RESTAURANT MENU:https://www.figma.com/design/wclfViMdicNhDNgAX4ds9p/Untitled?node-id=0-1&t=2BymNYzSkTmhX7ox-1
 
