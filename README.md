@@ -1,7 +1,7 @@
 # codsoft_tasks
 
 AS IT WAS NOT POSSIBLE TO SHARE FIGMA FILES SO I HAVE COVERTED IT TO PDF 
-FOR FOGMA LINKS 
+FOR FIGMA LINKS 
 
 1.MOBILE SIGNUP FLOW:https://www.figma.com/design/CMfzvaMG6fEfdkdXVh7Tyu/Untitled?node-id=0-1&t=kn5yyfTxDoDjr8Mz-1
 
