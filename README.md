@@ -1,7 +1,7 @@
 # codsoft_tasks
 
 AS IT WAS NOT POSSIBLE TO SHARE FIGMA FILES SO I HAVE COVERTED IT TO PDF 
-FOR FIGMA LINKS 
+AND INCLUDED  FIGMA LINKS 
 
 Mobile Signup Flow Design
 1. Welcome Screen
@@ -29,6 +29,7 @@ Search Bar: Optionally included for searching the menu
 Header: Consistent with the homepage for ease of navigation.
 Menu Categories:
  Clearly defined sections such as  Main Courses, Desserts, and Beverages.
+ 
 2.RESTAURANT MENU:https://www.figma.com/design/wclfViMdicNhDNgAX4ds9p/Untitled?node-id=0-1&t=2BymNYzSkTmhX7ox-1
 
 
@@ -41,4 +42,5 @@ Cart Icon: Visible top-right with an indicator for the number of items.
 Product Listing Page:
 Product Grid
 Product Cards: Each card includes an image, name, price, and quick view option.
+
 3.ECOMMERCE WEBSITE:https://www.figma.com/design/2BgTXgT1H2Bn5WS2GEkV3k/Untitled?node-id=1-2&t=2BymNYzSkTmhX7ox-1
