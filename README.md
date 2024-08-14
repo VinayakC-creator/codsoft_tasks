@@ -9,7 +9,8 @@ Header: Logo or app name centered at the top.
 Tagline: Brief and engaging text describing the app's value
  Button: “Get Started” or “Sign Up” prominently displayed.
 Secondary Option: Link to “Log In” for existing users, positioned at the bottom.
-3. User Information Screen
+
+2. User Information Screen
 Header: “Create Your Account” with a progress indicator showing step 1 of 3.
 Input Fields:
 Name: Full name with placeholder text.
